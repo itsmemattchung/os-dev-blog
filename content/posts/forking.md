@@ -1,7 +1,7 @@
 ---
 title: "Forking"
 date: 2018-10-19T15:09:53-07:00
-draft: true
+draft: false
 ---
 
 Let's play around with `fork()`. This system call creates a copy of the
